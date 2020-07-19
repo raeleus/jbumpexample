@@ -1,4 +1,4 @@
-# jbumpexample
+# JBump Example Projects
 
 Two projects to demonstrate the use of Jbump with libGDX. This project is a supplementary to the
 [tutorial video](https://youtu.be/IeU06Vzz2hA).
