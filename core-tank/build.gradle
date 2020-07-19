@@ -1,0 +1,10 @@
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+eclipse.project.name = appName + '-core'
+
+dependencies {
+	api "com.badlogicgames.gdx:gdx:$gdxVersion"
+	api "com.badlogicgames.gdx:gdx-freetype:$gdxVersion"
+	api "space.earlygrey:shapedrawer:$shapeDrawerVersion"
+	implementation 'com.github.tommyettinger:jbump:master-SNAPSHOT'
+	implementation "space.earlygrey:shapedrawer:2.3.0"
+}

@@ -1,0 +1,223 @@
+
+textures.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood1
+  rotate: false
+  xy: 41, 10
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+t-blood1
+  rotate: false
+  xy: 41, 10
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+blood2
+  rotate: false
+  xy: 34, 37
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+t-blood2
+  rotate: false
+  xy: 34, 37
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+blood3
+  rotate: false
+  xy: 1, 1
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+t-blood3
+  rotate: false
+  xy: 1, 1
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+blood4
+  rotate: false
+  xy: 64, 42
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+t-blood4
+  rotate: false
+  xy: 64, 42
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+m-block
+  rotate: false
+  xy: 269, 98
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+m-enemy
+  rotate: false
+  xy: 359, 5
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: 0
+m-enemy
+  rotate: false
+  xy: 371, 107
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: 1
+m-enemy-squashed
+  rotate: false
+  xy: 269, 5
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+m-player-jump
+  rotate: false
+  xy: 245, 868
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: -1
+m-player-stand
+  rotate: false
+  xy: 143, 481
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: -1
+m-player-walk
+  rotate: false
+  xy: 143, 324
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: 0
+m-player-walk
+  rotate: false
+  xy: 143, 167
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: 1
+m-player-walk
+  rotate: false
+  xy: 143, 10
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: 2
+m-player-walk
+  rotate: false
+  xy: 269, 481
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: 3
+m-player-walk
+  rotate: false
+  xy: 285, 711
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: 4
+m-player-walk
+  rotate: false
+  xy: 371, 868
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: 5
+m-player-wall
+  rotate: false
+  xy: 269, 324
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: -1
+t-bullet
+  rotate: false
+  xy: 1, 30
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+t-fly
+  rotate: false
+  xy: 1, 638
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: 0
+t-fly
+  rotate: false
+  xy: 1, 495
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: 1
+t-fly
+  rotate: false
+  xy: 1, 352
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: 2
+t-fly
+  rotate: false
+  xy: 1, 209
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: 3
+t-fly
+  rotate: false
+  xy: 1, 66
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: 4
+t-fly
+  rotate: false
+  xy: 143, 638
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: 5
+t-tank
+  rotate: false
+  xy: 269, 200
+  size: 132, 122
+  orig: 132, 122
+  offset: 0, 0
+  index: -1
+t-tank-turret
+  rotate: false
+  xy: 1, 781
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 34, 34
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
